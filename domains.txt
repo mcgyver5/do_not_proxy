@@ -20,4 +20,5 @@ spocs.getpocket.com,
 firefox.settings.services.mozilla.com, 
 googleads.g.doubleclick.net, 
 encrypted-tbn0.gstatic.com, 
-content-signature-2.cdn.mozilla.net
+content-signature-2.cdn.mozilla.net,
+ping.chartbeat.net
